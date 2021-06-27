@@ -1,0 +1,29 @@
+table
+{
+  width: 90%;
+  border-collapse: collapse;
+  border: 5px solid black;
+}
+
+td
+{
+font-family: Georgia, serif;
+text-align:justify;
+font-size:15;
+font-weight:bold;
+background-color:#F3AFDD;
+}
+
+body
+{
+background-color:#E8D0A0;
+background-image:url("image/texture.jpg")
+}
+
+li
+{
+font-family: Georgia, serif;
+font-size:12;
+font-weight:bold;
+line-height:1.8;
+}
