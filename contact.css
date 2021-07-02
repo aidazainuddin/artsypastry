@@ -1,0 +1,15 @@
+table
+{
+  width: 50%;
+  border-collapse: collapse;
+  border: 5px solid black;
+}
+
+td
+{
+font-family: Georgia, serif;
+text-align: left;
+font-size:30;
+font-weight:bold;
+background-color:white;
+}
